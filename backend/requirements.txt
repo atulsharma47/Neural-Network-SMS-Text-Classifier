@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+nltk
+tensorflow
+pytest
+pydantic
+python-multipart
+requests
