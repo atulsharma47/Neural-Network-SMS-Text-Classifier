@@ -41,18 +41,6 @@ The models are trained and evaluated using the **UCI SMS Spam Collection dataset
 
 # 📸 Screenshots
 
-## 🏠 Home Page
-
-<p align="center">
-  <img src="assets/home.png" width="900" alt="SpamShield AI Home Page">
-</p>
-
-<p align="center">
-Modern landing page introducing SpamShield AI and its NLP-powered SMS classification capabilities.
-</p>
-
----
-
 ## 🔍 SMS Analyzer
 
 <p align="center">
@@ -79,9 +67,7 @@ Interactive analytics dashboard showing dataset statistics, model comparison, pe
 
 ## 📦 Batch CSV Analysis
 
-<p align="center">
-  <img src="assets/batch-analysis.png" width="900" alt="SpamShield AI Batch Analysis">
-</p>
+
 
 <p align="center">
 Upload a CSV file containing multiple SMS messages and classify them in bulk.
