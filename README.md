@@ -4,6 +4,20 @@
 
 An end-to-end NLP and machine learning platform for real-time SMS spam detection, batch message analysis, model evaluation, explainable predictions, and interactive data visualization. Trained and evaluated using the UCI SMS Spam Collection dataset.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/analyzer.png" width="800" alt="Analyzer Dashboard">
+  <br>
+  <em>Real-time inference and NLP pipeline visualization</em>
+</p>
+
+<p align="center">
+  <img src="assets/dashboard.png" width="800" alt="Analytics Dashboard">
+  <br>
+  <em>Interactive analytics and model evaluation metrics</em>
+</p>
+
 ## Features
 
 - ✓ Real-time SMS classification
